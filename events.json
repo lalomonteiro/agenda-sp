@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "agenda": "Agenda São Paulo",
+  "purpose": "Base estruturada para comparação entre atualizações semanais. O index.html é a página pública; este arquivo mantém o histórico e o estado dos eventos.",
+  "last_updated": null,
+  "events": [],
+  "history": []
+}
