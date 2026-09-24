@@ -22,6 +22,11 @@
       "date": "2026-09-24",
       "type": "coverage_correction",
       "note": "Cinema ampliado para filmes efetivamente em cartaz nos cinemas prioritários da Zona Oeste/Paulista; shows menores ampliados com Blue Note, Casa Natura e circuito similar."
+    },
+    {
+      "date": "2026-09-24",
+      "type": "manual_weekend_refresh",
+      "note": "Nova varredura para 26–27/09 com reforço de esportes, shows menores e teatro; rotina semanal ajustada para quinta às 07h."
     }
   ],
   "events": [
@@ -878,6 +883,81 @@
       "description": "Última fase do show Truque, em uma casa que deve permanecer na busca semanal.",
       "url": "https://casanaturamusical.com.br/eventos/",
       "period": "Outubro 2026",
+      "highlight": true
+    },
+    {
+      "id": "run-c6-lauf-2026",
+      "title": "C6 Bank Lauf Run 2026",
+      "audience": "Família",
+      "category": "Esportes",
+      "date": "27/09",
+      "time": "07h00",
+      "venue": "Jockey Club de São Paulo • Zona Oeste",
+      "price": "Consultar inscrição",
+      "age": "Consultar regulamento",
+      "description": "Corrida de rua com largada e chegada no Jockey; opção esportiva muito perto da região do Itaim/Jardim Europa.",
+      "url": "https://esportividade.com.br/busca-de-eventos/",
+      "period": "24–30 set",
+      "highlight": true
+    },
+    {
+      "id": "bimbo-global-run-2026",
+      "title": "Bimbo Global Race 2026",
+      "audience": "Família",
+      "category": "Esportes",
+      "date": "27/09",
+      "time": "07h00",
+      "venue": "Cidade Universitária (USP) • Zona Oeste",
+      "price": "Consultar inscrição",
+      "age": "Inclui corrida infantil; consultar regulamento",
+      "description": "Evento de corrida na USP com modalidade infantil, portanto especialmente interessante para uma manhã esportiva em família.",
+      "url": "https://esportividade.com.br/busca-de-eventos/",
+      "period": "24–30 set",
+      "highlight": true
+    },
+    {
+      "id": "semana-move-2026",
+      "title": "Semana Move — esporte e território",
+      "audience": "Família",
+      "category": "Esportes",
+      "date": "26–27/09",
+      "time": "26/09: atividades desde 09h30; 27/09: desde 10h",
+      "venue": "Sesc Itaquera",
+      "price": "Consultar programação",
+      "age": "Varia por atividade",
+      "description": "Programação multiesportiva com taekwondo, handebol e Seleção Brasileira Feminina de Basquete em Cadeira de Rodas, entre outras atividades.",
+      "url": "https://www.sescsp.org.br/editorial/semana-move-2026-movimenta-o-sesc-itaquera-com-esporte-para-diferentes-publicos/",
+      "period": "24–30 set",
+      "highlight": false
+    },
+    {
+      "id": "teatro-eu-sou-minha-propria",
+      "title": "Eu Sou Minha Própria Mulher — Edwin Luisi",
+      "audience": "Casal",
+      "category": "Teatro & Musicais",
+      "date": "25–27/09 e temporada até 29/11",
+      "time": "sex e sáb 20h; dom 17h",
+      "venue": "Teatro FAAP • Higienópolis",
+      "price": "R$ 160 inteira / R$ 80 meia",
+      "age": "Consultar teatro",
+      "description": "Monólogo estrelado por Edwin Luisi e dirigido por Herson Capri; opção forte e relativamente próxima para o fim de semana.",
+      "url": "https://www.baressp.com.br/eventos/edwin-luisi-estreia-nova-montagem-de-eu-sou-minha-propria-mulher-em-sao-paulo",
+      "period": "24–30 set",
+      "highlight": true
+    },
+    {
+      "id": "teatro-nao-me-entrego",
+      "title": "Não Me Entrego, Não — Othon Bastos",
+      "audience": "Casal",
+      "category": "Teatro & Musicais",
+      "date": "26–27/09",
+      "time": "sáb 20h; dom 17h",
+      "venue": "Festival de Teatro de São Paulo",
+      "price": "Consultar ingresso",
+      "age": "Consultar",
+      "description": "Othon Bastos em cartaz apenas neste fim de semana dentro do Festival de Teatro de São Paulo.",
+      "url": "https://festivaldeteatrodesp.com.br/",
+      "period": "24–30 set",
       "highlight": true
     }
   ]
