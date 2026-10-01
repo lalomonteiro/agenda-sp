@@ -359,6 +359,10 @@
       "url": "https://casanaturamusical.com.br/eventos/",
       "period": "Outubro 2026",
       "highlight": true
-    }
+    },
+    {"id":"galinha-filme-out","title":"Galinha Pintadinha — O Filme","audience":"Família","category":"Cinema","date":"Em cartaz a partir de 01/10","time":"Eldorado, Villa-Lobos e JK: consultar grade do dia","venue":"Eldorado / Villa-Lobos / JK Iguatemi","price":"Consultar sessão","age":"Livre","description":"Principal estreia infantil da semana, com sessões perto da Zona Oeste.","url":"https://www.ingresso.com/","period":"1–7 out","highlight":true},
+    {"id":"miraculous-musical","title":"Miraculous Ladybug — O Show Musical","audience":"Família","category":"Teatro & Musicais","date":"03/10–01/11","time":"sáb 13h, 16h e 19h; dom 16h e 19h","venue":"Teatro Villa-Lobos • Shopping Villa-Lobos","price":"R$ 25 meia a R$ 260 inteira","age":"Consultar","description":"Adaptação oficial da série; estreia neste fim de semana.","url":"https://www.teatrovillalobos.com.br/","period":"1–7 out","highlight":true},
+    {"id":"meu-deus","title":"Meu Deus! — Bianca Bin e Sérgio Guizé","audience":"Casal","category":"Teatro & Musicais","date":"Até 01/11","time":"Sessões 02–04/10 e fins de semana seguintes","venue":"Teatro das Artes • Shopping Eldorado","price":"R$ 25–160","age":"Consultar","description":"Comédia dirigida por Elias Andreato, no Eldorado.","url":"https://www.teatrodasartessp.com.br/","period":"1–7 out","highlight":true},
+    {"id":"folha-gourmet","title":"Folha Gourmet Festival","audience":"Família","category":"Feiras & Festivais","date":"07–08 e 14–15/11","time":"Consultar programação","venue":"Parque Villa-Lobos","price":"R$ 50 inteira / R$ 25 meia","age":"Família","description":"Festival com 20 restaurantes, música ao vivo, debates, área infantil e piquenique.","url":"https://www.sympla.com.br/","period":"Novembro 2026","highlight":true}
   ]
 }
