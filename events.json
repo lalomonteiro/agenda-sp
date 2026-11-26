@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "agenda": "Agenda São Paulo",
-  "last_updated": "2026-11-19",
-  "week_start": "2026-11-19",
-  "week_end": "2026-12-16",
-  "monthly_through": "2027-05-19",
+  "last_updated": "2026-11-26",
+  "week_start": "2026-11-26",
+  "week_end": "2026-12-23",
+  "monthly_through": "2027-05-26",
   "history": [
     {
       "date": "2026-09-11",
@@ -70,29 +70,29 @@
       "date": "2026-11-19",
       "type": "partial_verified_refresh",
       "note": "14 registros vencidos removidos; 12 novas atrações. Destaque: Federer e Fonseca no Pacaembu em 5/12; ingressos gratuitos anunciados para 23/11. Cobertura parcial: não foi possível validar integralmente grades comerciais de cinema, todos os circuitos e horizonte mensal. Registros mantidos conservam suas datas de checagem."
+    },
+    {
+      "date": "2026-11-26",
+      "type": "partial_verified_refresh",
+      "note": "17 registros vencidos removidos; 8 novas atrações. Pesquisa parcial: quatro páginas de cinema não exibiram sessões; não foi possível confirmar grades por sala nem completar todos os circuitos e meses. Eventos anteriores não foram reconfirmados."
     }
   ],
   "news_ids": [
-    "federer-fonseca",
-    "fonseca-alcaraz",
-    "rocky-jk",
-    "mamãe-noel-tucca",
-    "osesp-chopin",
-    "martin-sued",
-    "bn-aline",
-    "opera-evaristo",
-    "pelucia",
-    "faap-edwin",
-    "jh-oficina",
-    "miro-faap"
+    "festival-mario",
+    "feira-livro-mario",
+    "entre-atelies",
+    "pina-experimenta",
+    "mis-attila",
+    "joao-joaozinho",
+    "ebony-itaquera",
+    "esporte-itaquera"
   ],
   "removed_since_previous": [
-    "14 registros vencidos removidos."
+    "17 registros vencidos removidos."
   ],
   "changes_since_previous": [
-    "14 registros vencidos removidos; 12 novas atrações.",
-    "Destaque: Federer e Fonseca no Pacaembu em 5/12; ingressos gratuitos anunciados para 23/11.",
-    "Cobertura parcial: não foi possível validar integralmente grades comerciais de cinema, todos os circuitos e horizonte mensal. Registros mantidos conservam suas datas de checagem."
+    "17 registros vencidos removidos; 8 novas atrações. Pesquisa parcial: quatro páginas de cinema não exibiram sessões; não foi possível confirmar grades por sala nem completar todos os circuitos e meses. Eventos anteriores não foram reconfirmados.",
+    "Festival Mário de Andrade, oficinas no Sesc Pompeia e Pinacoteca, concerto no MIS e teatro infantil no SESI."
   ],
   "events": [
     {
@@ -114,7 +114,7 @@
       "start_date": "2026-10-15",
       "end_date": "2027-04-15",
       "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "Japan House oficial 15/10"
     },
     {
@@ -136,7 +136,7 @@
       "start_date": "2026-10-15",
       "end_date": "2027-02-07",
       "source_checked": "2026-10-08",
-      "status": "programação anterior; reconfirmar no link",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "https://ims.com.br/exposicao/fernando-lemos/"
     },
     {
@@ -158,7 +158,7 @@
       "start_date": "2026-10-15",
       "end_date": "2027-01-31",
       "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "MASP oficial 15/10"
     },
     {
@@ -180,7 +180,7 @@
       "start_date": "2026-10-15",
       "end_date": "2027-01-31",
       "source_checked": "2026-10-08",
-      "status": "programação anterior; reconfirmar no link",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "https://pinacoteca.org.br/programacao/exposicoes/ismael-nery-armadilha-moderna/"
     },
     {
@@ -202,7 +202,7 @@
       "first_seen": "2026-10-15",
       "last_checked": "2026-10-15",
       "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "Fonte oficial consultada em 15/10/2026"
     },
     {
@@ -224,7 +224,7 @@
       "first_seen": "2026-10-15",
       "last_checked": "2026-10-15",
       "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "Fonte oficial consultada em 15/10/2026"
     },
     {
@@ -246,30 +246,8 @@
       "start_date": "2026-10-15",
       "end_date": "2027-02-28",
       "source_checked": "2026-10-08",
-      "status": "da agenda anterior; horários/temporada precisam de confirmação na fonte",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "https://www.museuafrobrasil.org.br/"
-    },
-    {
-      "id": "feliz-ano",
-      "title": "Feliz Ano Velho — O Musical",
-      "audience": "Casal",
-      "category": "Teatro & Musicais",
-      "start_date": "2026-10-15",
-      "end_date": "2026-11-22",
-      "date": "Até 22/11",
-      "time": "Consultar sessões",
-      "venue": "Teatro Sabesp Frei Caneca",
-      "price": "Consultar bilheteria",
-      "age": "Consultar",
-      "description": "Adaptação do livro de Marcelo Rubens Paiva, com Hugo Bonemer e Heloisa Périssé.",
-      "url": "https://www.shoppingfreicaneca.com.br/",
-      "highlight": true,
-      "planning": false,
-      "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
-      "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
-      "source": "Folha e Arteview 2026"
     },
     {
       "id": "filumena",
@@ -290,30 +268,8 @@
       "start_date": "2026-10-16",
       "end_date": "2026-12-20",
       "source_checked": "2026-10-22",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "SESI 07/10"
-    },
-    {
-      "id": "sarah",
-      "title": "Sarah Bernhardt em São Paulo",
-      "audience": "Casal",
-      "category": "Teatro & Musicais",
-      "start_date": "2026-10-16",
-      "end_date": "2026-11-22",
-      "date": "Até 22/11",
-      "time": "Sex/sáb/dom; consultar horário",
-      "venue": "Sesc Santana",
-      "price": "Consultar Sesc",
-      "age": "Consultar",
-      "description": "Peça de Samir Yazbek com Arietha Corrêa, direção de Ulysses Cruz.",
-      "url": "https://www.sescsp.org.br/unidades/santana/",
-      "highlight": true,
-      "planning": false,
-      "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
-      "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
-      "source": "Guia Folha 14/10"
     },
     {
       "id": "folego",
@@ -334,7 +290,7 @@
       "start_date": "2026-10-23",
       "end_date": "2026-12-13",
       "source_checked": "2026-10-08",
-      "status": "da agenda anterior; confirmar temporada e sessões",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "https://www.sescsp.org.br/editorial/temporadas-de-teatro-no-sesc-sp/"
     },
     {
@@ -356,7 +312,7 @@
       "start_date": "2026-10-29",
       "end_date": "2027-03-14",
       "source": "https://pinacoteca.org.br/qrcode/calendario-pina/",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "teatro-menina-inundou",
@@ -377,7 +333,7 @@
       "start_date": "2026-10-29",
       "end_date": "2026-11-29",
       "source": "https://ouviram.com.br/agenda/teatro-em-sao-paulo-novembro-2026",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "teatro-raiz",
@@ -398,7 +354,7 @@
       "start_date": "2026-10-29",
       "end_date": "2026-11-29",
       "source": "https://ouviram.com.br/agenda/teatro-em-sao-paulo-novembro-2026",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "teatro-gil-2026",
@@ -419,7 +375,7 @@
       "start_date": "2026-10-29",
       "end_date": "2026-11-29",
       "source": "https://www.santander.com.br/blog/para-voce/teatro",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "teatro-ceu-durvalina",
@@ -440,7 +396,7 @@
       "start_date": "2026-10-29",
       "end_date": "2026-12-13",
       "source": "https://ouviram.com.br/agenda/teatro-em-sao-paulo-novembro-2026",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "teatro-coisas-maravilhosas",
@@ -461,7 +417,7 @@
       "start_date": "2026-10-29",
       "end_date": "2026-12-13",
       "source": "https://ouviram.com.br/agenda/teatro-em-sao-paulo-novembro-2026",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "masp-delano",
@@ -482,7 +438,7 @@
       "start_date": "2026-10-30",
       "end_date": "2027-01-31",
       "source_checked": "2026-10-08",
-      "status": "programação anterior; reconfirmar no link",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "https://masp.org.br/exposicoes"
     },
     {
@@ -504,7 +460,7 @@
       "start_date": "2026-10-30",
       "end_date": "2027-04-04",
       "source_checked": "2026-10-08",
-      "status": "programação anterior; reconfirmar no link",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "https://masp.org.br/exposicoes"
     },
     {
@@ -526,7 +482,7 @@
       "start_date": "2026-10-30",
       "end_date": "2027-01-31",
       "source": "https://masp.org.br/exposicoes",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "cine-italiano-2026",
@@ -547,7 +503,7 @@
       "start_date": "2026-11-05",
       "end_date": "2026-11-30",
       "source": "https://ccbb.com.br/sao-paulo/programacao/21o-festival-de-cinema-italiano-no-brasil-2/",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "pina-sara",
@@ -568,7 +524,7 @@
       "start_date": "2026-11-07",
       "end_date": "2027-04-18",
       "source": "https://pinacoteca.org.br/programacao/exposicoes/sara-ramo/",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "teatro-prova-vida",
@@ -589,49 +545,7 @@
       "start_date": "2026-11-07",
       "end_date": "2026-11-29",
       "source": "https://ouviram.com.br/agenda/teatro-em-sao-paulo-novembro-2026",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
-    },
-    {
-      "id": "cine-mixbrasil-2026",
-      "title": "34º Festival MixBrasil",
-      "audience": "Casal",
-      "category": "Cinema",
-      "date": "2026-11-11 a 2026-11-22",
-      "time": "Grade por filme em divulgação",
-      "venue": "Diversos espaços de São Paulo",
-      "price": "Consultar na fonte",
-      "age": "Conforme filme",
-      "description": "Festival de cinema e cultura com produções brasileiras e internacionais; sessões a confirmar.",
-      "url": "https://www1.folha.uol.com.br/ilustrada/2026/10/mixbrasil-anuncia-eu-vou-ter-saudades-de-voce-e-49-filmes-estrangeiros.shtml",
-      "highlight": false,
-      "planning": false,
-      "first_seen": "2026-10-29",
-      "last_checked": "2026-10-29",
-      "start_date": "2026-11-11",
-      "end_date": "2026-11-22",
-      "source": "https://www1.folha.uol.com.br/ilustrada/2026/10/mixbrasil-anuncia-eu-vou-ter-saudades-de-voce-e-49-filmes-estrangeiros.shtml",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
-    },
-    {
-      "id": "teatro-grupo-corpo",
-      "title": "Grupo Corpo — Piracema e Lecuona",
-      "audience": "Família",
-      "category": "Teatro & Musicais",
-      "date": "2026-11-12 a 2026-11-22",
-      "time": "Qua–sáb 20h; dom 16h",
-      "venue": "Teatro Sérgio Cardoso",
-      "price": "Consultar na fonte",
-      "age": "Livre",
-      "description": "Duas coreografias dos 50 anos do Grupo Corpo.",
-      "url": "https://ouviram.com.br/agenda/teatro-em-sao-paulo-novembro-2026",
-      "highlight": true,
-      "planning": false,
-      "first_seen": "2026-10-29",
-      "last_checked": "2026-10-29",
-      "start_date": "2026-11-12",
-      "end_date": "2026-11-22",
-      "source": "https://ouviram.com.br/agenda/teatro-em-sao-paulo-novembro-2026",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "ims-araguler",
@@ -652,7 +566,7 @@
       "start_date": "2026-11-14",
       "end_date": "2027-03-07",
       "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "IMS calendário oficial 2026"
     },
     {
@@ -674,72 +588,7 @@
       "start_date": "2026-11-14",
       "end_date": "2026-12-13",
       "source": "https://ouviram.com.br/agenda/teatro-em-sao-paulo-novembro-2026",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
-    },
-    {
-      "id": "nbb-pin-cruzeiro",
-      "title": "NBB — Pinheiros × Cruzeiro",
-      "audience": "Família",
-      "category": "Esportes",
-      "date": "2026-11-19",
-      "time": "20h",
-      "venue": "EC Pinheiros • Henrique Villaboim",
-      "price": "Consultar na fonte",
-      "age": "Consultar",
-      "description": "Basquete no Pinheiros.",
-      "url": "https://lnb.com.br/nbb/tabela-de-jogos/",
-      "highlight": false,
-      "planning": false,
-      "first_seen": "2026-10-29",
-      "last_checked": "2026-10-29",
-      "start_date": "2026-11-19",
-      "end_date": "2026-11-19",
-      "source": "https://lnb.com.br/nbb/tabela-de-jogos/",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
-    },
-    {
-      "id": "rael-toca",
-      "title": "Rael + Rincon Sapiência — TOCA Sessions",
-      "audience": "Casal",
-      "category": "Shows & Música",
-      "start_date": "2026-11-19",
-      "end_date": "2026-11-19",
-      "date": "19/11",
-      "time": "Consultar",
-      "venue": "Audio • Barra Funda",
-      "price": "A partir de R$ 70",
-      "age": "Consultar",
-      "description": "Nova edição do TOCA Sessions com DJ Lys Ventura.",
-      "url": "https://www.audio.com.br/",
-      "highlight": true,
-      "planning": false,
-      "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
-      "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
-      "source": "UOL TOCA 13/10"
-    },
-    {
-      "id": "rocky-jk",
-      "title": "Eu Sou o Rocky",
-      "audience": "Casal",
-      "category": "Cinema",
-      "start_date": "2026-11-19",
-      "end_date": "2026-11-19",
-      "date": "2026-11-19",
-      "time": "13h, 14h40, 16h, 17h50, 19h, 20h45, 22h",
-      "venue": "Cinépolis JK Iguatemi",
-      "price": "Consultar",
-      "age": "12 anos",
-      "url": "https://www.adorocinema.com/programacao/cinema-F0534/",
-      "description": "Sessões de 19/11 na listagem consultada; reconfirmar antes de sair.",
-      "highlight": true,
-      "planning": false,
-      "first_seen": "2026-11-19",
-      "last_checked": "2026-11-19",
-      "source_checked": "2026-11-19",
-      "source": "https://www.adorocinema.com/programacao/cinema-F0534/",
-      "status": "divulgado na fonte consultada; confirmar disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "miro-faap",
@@ -761,28 +610,7 @@
       "last_checked": "2026-11-19",
       "source_checked": "2026-11-19",
       "source": "https://www.encontracampobelo.com/agenda-cultural-de-sao-paulo-em-novembro-20-atracoes/",
-      "status": "divulgado na fonte consultada; confirmar disponibilidade"
-    },
-    {
-      "id": "cn-tasha",
-      "title": "Tasha & Tracie — Serena & Venus",
-      "audience": "Casal",
-      "category": "Shows & Música",
-      "date": "2026-11-20",
-      "time": "21h",
-      "venue": "Casa Natura Musical • Pinheiros",
-      "price": "Consultar na fonte",
-      "age": "18 anos",
-      "description": "Rap no Dia da Consciência Negra.",
-      "url": "https://casanaturamusical.com.br/eventos/",
-      "highlight": false,
-      "planning": false,
-      "first_seen": "2026-10-29",
-      "last_checked": "2026-10-29",
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "source": "https://casanaturamusical.com.br/eventos/",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "opera-evaristo",
@@ -804,51 +632,7 @@
       "last_checked": "2026-11-19",
       "source_checked": "2026-11-19",
       "source": "https://guia.folha.uol.com.br/teatro/2026/11/vida-e-obra-de-conceicao-evaristo-viram-opera-que-estreia-em-sao-paulo.shtml",
-      "status": "divulgado na fonte consultada; confirmar disponibilidade"
-    },
-    {
-      "id": "pelucia",
-      "title": "Planeta Pelúcia",
-      "audience": "Família",
-      "category": "Teatro & Musicais",
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "date": "2026-11-20",
-      "time": "12h",
-      "venue": "Sesc Belenzinho",
-      "price": "R$ 12–40",
-      "age": "Consultar",
-      "url": "https://howdidimissthat.com/sao-paulo/teatro/novembro-2026",
-      "description": "Confirmar classificação no Sesc.",
-      "highlight": true,
-      "planning": false,
-      "first_seen": "2026-11-19",
-      "last_checked": "2026-11-19",
-      "source_checked": "2026-11-19",
-      "source": "https://howdidimissthat.com/sao-paulo/teatro/novembro-2026",
-      "status": "divulgado na fonte consultada; confirmar disponibilidade"
-    },
-    {
-      "id": "faap-edwin",
-      "title": "Eu Sou Minha Própria Mulher",
-      "audience": "Casal",
-      "category": "Teatro & Musicais",
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "date": "2026-11-20",
-      "time": "20h",
-      "venue": "Teatro FAAP",
-      "price": "R$ 80–160",
-      "age": "Consultar",
-      "url": "https://howdidimissthat.com/sao-paulo/teatro/novembro-2026",
-      "description": "Com Edwin Luisi.",
-      "highlight": true,
-      "planning": false,
-      "first_seen": "2026-11-19",
-      "last_checked": "2026-11-19",
-      "source_checked": "2026-11-19",
-      "source": "https://howdidimissthat.com/sao-paulo/teatro/novembro-2026",
-      "status": "divulgado na fonte consultada; confirmar disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "porsche",
@@ -869,162 +653,8 @@
       "start_date": "2026-11-21",
       "end_date": "2026-11-28",
       "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "Porsche Cup ingressos oficial 15/10"
-    },
-    {
-      "id": "cn-cordel",
-      "title": "Cordel do Fogo Encantado — primeiro álbum",
-      "audience": "Casal",
-      "category": "Shows & Música",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-22",
-      "date": "21–22/11",
-      "time": "Consultar",
-      "venue": "Casa Natura Musical • Pinheiros",
-      "price": "Consultar",
-      "age": "Consultar",
-      "description": "Duas noites com repertório do primeiro álbum.",
-      "url": "https://casanaturamusical.com.br/",
-      "highlight": true,
-      "planning": false,
-      "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
-      "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
-      "source": "Fonte oficial consultada em 15/10/2026"
-    },
-    {
-      "id": "mamãe-noel-tucca",
-      "title": "A Volta ao Mundo com Mamãe Noel",
-      "audience": "Família",
-      "category": "Shows & Música",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "date": "2026-11-21",
-      "time": "11h",
-      "venue": "Sala São Paulo",
-      "price": "R$ 30–115 + taxa online",
-      "age": "Consultar",
-      "url": "https://salasaopaulo.art.br/salasp/pt/programacao-ingressos",
-      "description": "Concerto infantil de 60 minutos.",
-      "highlight": true,
-      "planning": false,
-      "first_seen": "2026-11-19",
-      "last_checked": "2026-11-19",
-      "source_checked": "2026-11-19",
-      "source": "https://salasaopaulo.art.br/salasp/pt/programacao-ingressos",
-      "status": "divulgado na fonte consultada; confirmar disponibilidade"
-    },
-    {
-      "id": "osesp-chopin",
-      "title": "Osesp — Bellini, Chopin e John Adams",
-      "audience": "Casal",
-      "category": "Shows & Música",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "date": "2026-11-21",
-      "time": "16h30",
-      "venue": "Sala São Paulo",
-      "price": "R$ 50–330 + taxa online",
-      "age": "Livre",
-      "url": "https://salasaopaulo.art.br/salasp/pt/programacao-ingressos",
-      "description": "Regência David Robertson.",
-      "highlight": true,
-      "planning": false,
-      "first_seen": "2026-11-19",
-      "last_checked": "2026-11-19",
-      "source_checked": "2026-11-19",
-      "source": "https://salasaopaulo.art.br/salasp/pt/programacao-ingressos",
-      "status": "divulgado na fonte consultada; confirmar disponibilidade"
-    },
-    {
-      "id": "martin-sued",
-      "title": "Martín Sued & La Sociedad",
-      "audience": "Casal",
-      "category": "Shows & Música",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "date": "2026-11-21",
-      "time": "20h30",
-      "venue": "Estação Motiva Cultural",
-      "price": "R$ 50 + taxa online",
-      "age": "Consultar",
-      "url": "https://salasaopaulo.art.br/salasp/pt/programacao-ingressos",
-      "description": "Encerramento do festival Ecos Latinoamericanos.",
-      "highlight": true,
-      "planning": false,
-      "first_seen": "2026-11-19",
-      "last_checked": "2026-11-19",
-      "source_checked": "2026-11-19",
-      "source": "https://salasaopaulo.art.br/salasp/pt/programacao-ingressos",
-      "status": "divulgado na fonte consultada; confirmar disponibilidade"
-    },
-    {
-      "id": "bn-aline",
-      "title": "Aline Abdo canta BTS",
-      "audience": "Casal",
-      "category": "Shows & Música",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "date": "2026-11-21",
-      "time": "20h",
-      "venue": "Blue Note SP, sala 2",
-      "price": "Consultar",
-      "age": "Consultar",
-      "url": "https://bluenotesp.com/shows/aline-abdo-canta-bts/",
-      "description": "Tributo vocal.",
-      "highlight": true,
-      "planning": false,
-      "first_seen": "2026-11-19",
-      "last_checked": "2026-11-19",
-      "source_checked": "2026-11-19",
-      "source": "https://bluenotesp.com/shows/aline-abdo-canta-bts/",
-      "status": "divulgado na fonte consultada; confirmar disponibilidade"
-    },
-    {
-      "id": "jh-oficina",
-      "title": "Oficina infantil Pictogramas",
-      "audience": "Família",
-      "category": "Outros",
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "date": "2026-11-22",
-      "time": "15h",
-      "venue": "Japan House",
-      "price": "Gratuito; vagas limitadas",
-      "age": "4–12 anos",
-      "url": "https://www.acidadedesaopaulo.com.br/o-que-fazer-em-sp/o-que-fazer-em-sao-paulo-no-feriado-de-20-a-22-de-novembro-de-2026-22-programas-imperdiveis-para-curtir-a-cidade/",
-      "description": "Criação de símbolos com acompanhamento adulto.",
-      "highlight": true,
-      "planning": false,
-      "first_seen": "2026-11-19",
-      "last_checked": "2026-11-19",
-      "source_checked": "2026-11-19",
-      "source": "https://www.acidadedesaopaulo.com.br/o-que-fazer-em-sp/o-que-fazer-em-sao-paulo-no-feriado-de-20-a-22-de-novembro-de-2026-22-programas-imperdiveis-para-curtir-a-cidade/",
-      "status": "divulgado na fonte consultada; confirmar disponibilidade"
-    },
-    {
-      "id": "cn-bomba",
-      "title": "La Bomba de Tiempo — MUCHO! Ciudad Sonora",
-      "audience": "Casal",
-      "category": "Shows & Música",
-      "start_date": "2026-11-24",
-      "end_date": "2026-11-24",
-      "date": "24/11",
-      "time": "Consultar",
-      "venue": "Casa Natura Musical • Pinheiros",
-      "price": "Consultar",
-      "age": "Consultar",
-      "description": "Percussão argentina em experiência coletiva e dançante.",
-      "url": "https://casanaturamusical.com.br/",
-      "highlight": false,
-      "planning": false,
-      "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
-      "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
-      "source": "Fonte oficial consultada em 15/10/2026"
     },
     {
       "id": "masp-soto",
@@ -1045,7 +675,7 @@
       "first_seen": "2026-10-15",
       "last_checked": "2026-10-15",
       "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "Fonte oficial consultada em 15/10/2026"
     },
     {
@@ -1067,7 +697,7 @@
       "start_date": "2026-11-27",
       "end_date": "2027-04-04",
       "source": "https://masp.org.br/exposicoes",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "opera-perolas",
@@ -1088,7 +718,7 @@
       "start_date": "2026-11-27",
       "end_date": "2026-12-05",
       "source_checked": "2026-10-08",
-      "status": "programação anterior; reconfirmar no link",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "https://theatromunicipal.org.br/eventos/opera-os-pescadores-de-perolas-de-georges-bizet/"
     },
     {
@@ -1110,7 +740,7 @@
       "first_seen": "2026-10-15",
       "last_checked": "2026-10-15",
       "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "Calendário sujeito a alteração"
     },
     {
@@ -1132,7 +762,7 @@
       "start_date": "2026-11-28",
       "end_date": "2027-03-28",
       "source": "https://pinacoteca.org.br/qrcode/calendario-pina/",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "cn-letrux",
@@ -1153,7 +783,7 @@
       "first_seen": "2026-10-15",
       "last_checked": "2026-10-15",
       "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "Fonte oficial consultada em 15/10/2026"
     },
     {
@@ -1175,7 +805,7 @@
       "start_date": "2026-12-05",
       "end_date": "2026-12-05",
       "source_checked": "2026-10-08",
-      "status": "programação anterior; reconfirmar no link",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "https://www.eventim.com.br/"
     },
     {
@@ -1198,7 +828,7 @@
       "last_checked": "2026-11-19",
       "source_checked": "2026-11-19",
       "source": "https://www.uol.com.br/esporte/ultimas-noticias/2026/11/11/fonseca-federer-evento-em-sao-paulo-o-que-se-sabe.ghtm",
-      "status": "divulgado na fonte consultada; confirmar disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "sakamoto-tim",
@@ -1219,7 +849,7 @@
       "first_seen": "2026-10-15",
       "last_checked": "2026-10-15",
       "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "UOL TOCA 14/10"
     },
     {
@@ -1241,7 +871,7 @@
       "start_date": "2026-12-12",
       "end_date": "2026-12-23",
       "source": "https://www.santander.com.br/blog/para-voce/teatro",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "fonseca-alcaraz",
@@ -1263,7 +893,7 @@
       "last_checked": "2026-11-19",
       "source_checked": "2026-11-19",
       "source": "https://www.uol.com.br/esporte/ultimas-noticias/2026/11/11/fonseca-federer-evento-em-sao-paulo-o-que-se-sabe.ghtm",
-      "status": "divulgado na fonte consultada; confirmar disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "stock",
@@ -1284,7 +914,7 @@
       "start_date": "2026-12-13",
       "end_date": "2026-12-13",
       "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "Stock Car calendário anunciado 2026"
     },
     {
@@ -1306,7 +936,7 @@
       "first_seen": "2026-10-15",
       "last_checked": "2026-10-15",
       "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "Fonte oficial consultada em 15/10/2026"
     },
     {
@@ -1328,7 +958,7 @@
       "first_seen": "2026-10-15",
       "last_checked": "2026-10-15",
       "source_checked": "2026-10-15",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "Guia Folha 2026-09, pré-venda"
     },
     {
@@ -1350,7 +980,7 @@
       "first_seen": "2026-10-22",
       "last_checked": "2026-10-22",
       "source_checked": "2026-10-22",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "Consulta em 22/10/2026: https://www.saosilvestre.com.br/"
     },
     {
@@ -1372,7 +1002,7 @@
       "start_date": "2027-02-20",
       "end_date": "2027-02-20",
       "source_checked": "2026-10-08",
-      "status": "programação anterior; reconfirmar no link",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "https://www.foofighters.com.br/"
     },
     {
@@ -1394,7 +1024,7 @@
       "start_date": "2027-02-20",
       "end_date": "2027-02-20",
       "source_checked": "2026-10-08",
-      "status": "programação anterior; reconfirmar no link",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "https://www.eventim.com.br/"
     },
     {
@@ -1416,7 +1046,7 @@
       "start_date": "2027-02-25",
       "end_date": "2027-04-29",
       "source": "https://www.santander.com.br/blog/para-voce/teatro",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "pina-origens",
@@ -1437,7 +1067,7 @@
       "start_date": "2027-03-06",
       "end_date": "2027-04-29",
       "source": "https://pinacoteca.org.br/qrcode/calendario-pina/",
-      "status": "Confirmado ou programado; conferir sessões e disponibilidade"
+      "status": "programação anterior; confirmar detalhes na fonte"
     },
     {
       "id": "formula-e-2027",
@@ -1458,7 +1088,7 @@
       "first_seen": "2026-10-22",
       "last_checked": "2026-10-22",
       "source_checked": "2026-10-22",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "Consulta em 22/10/2026: https://www.fiaformulae.com/en/news/races/the-202627-formula-e-calendar-is-here"
     },
     {
@@ -1480,8 +1110,184 @@
       "first_seen": "2026-10-22",
       "last_checked": "2026-10-22",
       "source_checked": "2026-10-22",
-      "status": "confirmado na fonte consultada",
+      "status": "programação anterior; confirmar detalhes na fonte",
       "source": "Consulta em 22/10/2026: https://www.ticketmaster.com.br/event/lollapaloozabr-lolla-pista-pass"
+    },
+    {
+      "id": "festival-mario",
+      "title": "VI Festival Mário de Andrade",
+      "audience": "Família",
+      "category": "Feiras & Festivais",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "date": "28/11/2026–29/11/2026",
+      "time": "A partir das 10h",
+      "venue": "Biblioteca Mário de Andrade",
+      "price": "Grátis",
+      "age": "Consultar",
+      "description": "Música, literatura e gastronomia; Negra Li e Luedji Luna entre as atrações.",
+      "url": "https://www.acidadedesaopaulo.com.br/o-que-fazer-em-sp/o-que-fazer-em-sao-paulo-neste-fim-de-semana-nos-dias-28-e-29-de-novembro/",
+      "highlight": true,
+      "planning": false,
+      "first_seen": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "source_checked": "2026-11-26",
+      "status": "programação publicada; confirmar disponibilidade",
+      "source": "https://www.acidadedesaopaulo.com.br/o-que-fazer-em-sp/o-que-fazer-em-sao-paulo-neste-fim-de-semana-nos-dias-28-e-29-de-novembro/"
+    },
+    {
+      "id": "feira-livro-mario",
+      "title": "Feira do Livro — Festival Mário de Andrade",
+      "audience": "Família",
+      "category": "Feiras & Festivais",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "date": "28/11/2026–29/11/2026",
+      "time": "10h–19h",
+      "venue": "Praça Dom José Gaspar",
+      "price": "Grátis",
+      "age": "Consultar",
+      "description": "34 editoras e projetos independentes.",
+      "url": "https://www.acidadedesaopaulo.com.br/o-que-fazer-em-sp/o-que-fazer-em-sao-paulo-neste-fim-de-semana-nos-dias-28-e-29-de-novembro/",
+      "highlight": true,
+      "planning": false,
+      "first_seen": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "source_checked": "2026-11-26",
+      "status": "programação publicada; confirmar disponibilidade",
+      "source": "https://www.acidadedesaopaulo.com.br/o-que-fazer-em-sp/o-que-fazer-em-sao-paulo-neste-fim-de-semana-nos-dias-28-e-29-de-novembro/"
+    },
+    {
+      "id": "entre-atelies",
+      "title": "Entre Ateliês",
+      "audience": "Família",
+      "category": "Outros Programas",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "date": "28/11/2026–29/11/2026",
+      "time": "Senhas às 10h e 13h",
+      "venue": "Sesc Pompeia",
+      "price": "Grátis",
+      "age": "Consultar por oficina",
+      "description": "Atividades de gravura, cerâmica, fotografia e outras técnicas.",
+      "url": "https://www.acidadedesaopaulo.com.br/o-que-fazer-em-sp/o-que-fazer-em-sao-paulo-neste-fim-de-semana-nos-dias-28-e-29-de-novembro/",
+      "highlight": true,
+      "planning": false,
+      "first_seen": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "source_checked": "2026-11-26",
+      "status": "programação publicada; confirmar disponibilidade",
+      "source": "https://www.acidadedesaopaulo.com.br/o-que-fazer-em-sp/o-que-fazer-em-sao-paulo-neste-fim-de-semana-nos-dias-28-e-29-de-novembro/"
+    },
+    {
+      "id": "pina-experimenta",
+      "title": "Experimenta! — oficinas",
+      "audience": "Família",
+      "category": "Exposições & Museus",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "date": "28/11/2026–29/11/2026",
+      "time": "10h30–12h e 14h–15h30",
+      "venue": "Pinacoteca",
+      "price": "Sábado grátis; domingo R$40 inteira",
+      "age": "Consultar",
+      "description": "Oficinas de arte no museu.",
+      "url": "https://www.acidadedesaopaulo.com.br/o-que-fazer-em-sp/o-que-fazer-em-sao-paulo-neste-fim-de-semana-nos-dias-28-e-29-de-novembro/",
+      "highlight": true,
+      "planning": false,
+      "first_seen": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "source_checked": "2026-11-26",
+      "status": "programação publicada; confirmar disponibilidade",
+      "source": "https://www.acidadedesaopaulo.com.br/o-que-fazer-em-sp/o-que-fazer-em-sao-paulo-neste-fim-de-semana-nos-dias-28-e-29-de-novembro/"
+    },
+    {
+      "id": "mis-attila",
+      "title": "Attila Szaniszló — piano",
+      "audience": "Casal",
+      "category": "Shows & Música",
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "date": "29/11/2026",
+      "time": "19h",
+      "venue": "MIS",
+      "price": "Consultar reserva",
+      "age": "Consultar",
+      "description": "Concerto de piano.",
+      "url": "https://www.acidadedesaopaulo.com.br/o-que-fazer-em-sp/o-que-fazer-em-sao-paulo-neste-fim-de-semana-nos-dias-28-e-29-de-novembro/",
+      "highlight": true,
+      "planning": false,
+      "first_seen": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "source_checked": "2026-11-26",
+      "status": "programação publicada; confirmar disponibilidade",
+      "source": "https://www.acidadedesaopaulo.com.br/o-que-fazer-em-sp/o-que-fazer-em-sao-paulo-neste-fim-de-semana-nos-dias-28-e-29-de-novembro/"
+    },
+    {
+      "id": "joao-joaozinho",
+      "title": "João, Joãozinho, Joãozito",
+      "audience": "Família",
+      "category": "Teatro & Musicais",
+      "start_date": "2026-11-26",
+      "end_date": "2026-12-13",
+      "date": "26/11/2026–13/12/2026",
+      "time": "Qui/sex 11h; sáb 15h; dom 14h",
+      "venue": "Teatro SESI-SP, Paulista",
+      "price": "Grátis, reserva",
+      "age": "Consultar",
+      "description": "Espetáculo infantil.",
+      "url": "https://passeioskids.com/passeios-gratuitos-com-criancas-sao-paulo-passeios-kids/",
+      "highlight": true,
+      "planning": false,
+      "first_seen": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "source_checked": "2026-11-26",
+      "status": "programação publicada; confirmar disponibilidade",
+      "source": "https://passeioskids.com/passeios-gratuitos-com-criancas-sao-paulo-passeios-kids/"
+    },
+    {
+      "id": "ebony-itaquera",
+      "title": "Ebony — KM2",
+      "audience": "Casal",
+      "category": "Shows & Música",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date": "28/11/2026",
+      "time": "19h30–21h",
+      "venue": "Sesc Itaquera",
+      "price": "Consultar ingresso",
+      "age": "18 anos",
+      "description": "Show com abertura de DJ Anazú.",
+      "url": "https://www.sescsp.org.br/editorial/agenda-24-a-29-de-novembro/",
+      "highlight": true,
+      "planning": false,
+      "first_seen": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "source_checked": "2026-11-26",
+      "status": "programação publicada; confirmar disponibilidade",
+      "source": "https://www.sescsp.org.br/editorial/agenda-24-a-29-de-novembro/"
+    },
+    {
+      "id": "esporte-itaquera",
+      "title": "Recreação esportiva — Sesc Itaquera",
+      "audience": "Família",
+      "category": "Esportes",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date": "28/11/2026",
+      "time": "Basquete 10h–12h",
+      "venue": "Sesc Itaquera",
+      "price": "Grátis",
+      "age": "Livre para basquete",
+      "description": "Atividades esportivas; verificar regras de cada modalidade.",
+      "url": "https://www.sescsp.org.br/editorial/agenda-24-a-29-de-novembro/",
+      "highlight": true,
+      "planning": false,
+      "first_seen": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "source_checked": "2026-11-26",
+      "status": "programação publicada; confirmar disponibilidade",
+      "source": "https://www.sescsp.org.br/editorial/agenda-24-a-29-de-novembro/"
     }
   ]
 }
